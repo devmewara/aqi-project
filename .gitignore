@@ -1,0 +1,12 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Mac system file
+.DS_Store
+
+# Raw data (large)
+data/city_day.csv
+
+# Models
+models/.DS_Store
