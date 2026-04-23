@@ -10,3 +10,5 @@ data/city_day.csv
 
 # Models
 models/.DS_Store
+.virtual_documents/
+anaconda_projects/
